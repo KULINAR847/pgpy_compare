@@ -1,5 +1,5 @@
 # pgpy_compare
-Compare two databases using git
+Compare two databases using git and Windows
 
 1. Packages
 <pre>
