@@ -2,6 +2,7 @@
 Compare two databases using git
 
 You need install your connections between two databases in postgresql_compare.py
+```json
 conn_src = {
 	'user':'postgres', 
 	'password':'11111',
@@ -9,7 +10,7 @@ conn_src = {
 	'host':'localhost', 
 	'port':5432
 }
-
+```json
 conn_dst = {
 	'user':'postgres', 
 	'password':'11111',
