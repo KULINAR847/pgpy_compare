@@ -10,7 +10,6 @@ conn_src = {
 	'host':'localhost', 
 	'port':5432
 }
-```json
 conn_dst = {
 	'user':'postgres', 
 	'password':'11111',
@@ -18,6 +17,6 @@ conn_dst = {
 	'host':'localhost', 
 	'port':5432
 }
-
+```
 run
 python postgresql_compare.py
