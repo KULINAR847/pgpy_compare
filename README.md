@@ -2,9 +2,11 @@
 Compare two databases using git
 
 1. Packages
+<pre>
 <code>
    pip install pg8000
-</code>   
+</code>  
+</pre>
 2. You need install your connections between two databases in postgresql_compare.py
 <pre>
 <code>
@@ -25,9 +27,10 @@ conn_dst = {
 </code>
 </pre>
 RUN
+<pre>
 <code>
 python postgresql_compare.py
 </code>
-
+</pre>
 Open git gui client and you can see diff between two postgresql databases in db folder. 
 You can see also report_diff.txt
