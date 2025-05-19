@@ -34,3 +34,6 @@ python postgresql_compare.py
 </pre>
 Open git gui client and you can see diff between two postgresql databases in db folder. 
 You can see also report_diff.txt
+
+You can see the difference in the database not only of your changes, but also of the database versions.
+![diff_base](https://github.com/user-attachments/assets/304dadaf-352b-4f2d-98c2-3727fff41ab9)
